@@ -1,0 +1,69 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f0f0;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+header {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+}
+
+header a {
+  color: #61dafb;
+  text-decoration: none;
+}
+.about-me {
+  font-size: 1.3rem;
+  line-height: 2.1rem;
+  font-weight: 700;
+}
+h1 {
+  margin: 0;
+}
+
+section {
+  margin: 20px 0;
+}
+
+h2 {
+  color: #333;
+  border-bottom: 2px solid #61dafb;
+  padding-bottom: 5px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+ul li {
+  margin-bottom: 10px;
+}
+.lara {
+  line-height: 1.7rem;
+}
+.project {
+  background-color: white;
+  padding: 2rem;
+  margin-bottom: 20px;
+  border: 1px solid #61dafb;
+  border-radius: 5px;
+}
+
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+  margin-top: 20px;
+}
